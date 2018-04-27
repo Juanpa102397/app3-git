@@ -8,7 +8,7 @@
 <name> app3 Dia Mundial dela Bicicleta </name>
 
 <description>
-Aplicacion que muestra los datos del alumno
+Dia Mundial de la Bicicleta
 </description>
 
 <author href="https://build.phonegap.com" email="juanpa.torres.m9237@gmail.com">
@@ -26,10 +26,10 @@ Juan Pablo Torres Miscoac
 
 <!--Para accesar a paginas en internet-->
 <allow-intent href="https://*/*"/>
-<acces origin="https;//*/*"/>
+<acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>"
 <acces origin= "http://*/*"/>"
-<plugin name="cordova-plugin-whitelist" source"npm"/>
+<plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Plugins -->
 <!-- Core plugins -->
