@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <widget xmlns = "http://www.w3.org/ns/widgets"
  xmlns:gap="http://phonegap.com/ns/1.0"
- id = "com.phonegap.app1"
+ id = "com.phonegap.app3"
  version= "1.0.0">
 
-<name> app2-2018 Datos Alumnos </name>
+<name> app3 Dia Mundial dela Bicicleta </name>
 
 <description>
-Aplicacion que muestra los datos del Alumno
+Aplicacion que muestra los datos del alumno
 </description>
 
-<author href="https://build.phonegap.com" email="josealejomonteslopez@gmail.com">
-Juan Pablo Torres Miscoac</author>
+<author href="https://build.phonegap.com" email="juanpa.torres.m9237@gmail.com">
+Juan Pablo Torres Miscoac
+</author>
 
 <!--Personaliza la aplicacion y plataforma -->
 <preference name="orientation"   value="default"/>
@@ -27,7 +29,7 @@ Juan Pablo Torres Miscoac</author>
 <acces origin="https;//*/*"/>
 <allow-intent href="http://*/*"/>"
 <acces origin= "http://*/*"/>"
-<plugin name="cordova-plugin-whilelist" source"npm"/>
+<plugin name="cordova-plugin-whitelist" source"npm"/>
 
 <!--Plugins -->
 <!-- Core plugins -->
