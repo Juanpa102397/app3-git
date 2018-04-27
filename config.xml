@@ -11,8 +11,7 @@ Aplicacion que muestra los datos del Alumno
 </description>
 
 <author href="https://build.phonegap.com" email="josealejomonteslopez@gmail.com">
-Jose Alejo Montes Lope
-</author>
+Juan Pablo Torres Miscoac</author>
 
 <!--Personaliza la aplicacion y plataforma -->
 <preference name="orientation"   value="default"/>
